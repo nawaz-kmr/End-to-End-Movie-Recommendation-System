@@ -16,11 +16,6 @@ I have used Flask framework to built web app.
 
 *The application is run from the main.py file.
 
-<hr>
-
-![home](https://user-images.githubusercontent.com/61036755/82662120-ee6f3580-9c4a-11ea-9d17-9730bf485f17.png)
-
-<hr>
 
 
 
